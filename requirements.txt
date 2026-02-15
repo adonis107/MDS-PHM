@@ -1,8 +1,11 @@
 numpy
 pandas
+pyarrow
 matplotlib
 seaborn
 scikit-learn
 scipy
 statsmodels
+powerlaw
+tqdm
 yfinance
