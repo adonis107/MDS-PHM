@@ -4,8 +4,10 @@ pyarrow
 matplotlib
 seaborn
 scikit-learn
+scikit-network
 scipy
 statsmodels
 powerlaw
 tqdm
+xgboost
 yfinance
