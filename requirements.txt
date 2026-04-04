@@ -11,3 +11,4 @@ powerlaw
 tqdm
 xgboost
 yfinance
+numba
